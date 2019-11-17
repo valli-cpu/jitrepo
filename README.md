@@ -1,3 +1,3 @@
 # jitrepo
-for the k2project
+for the 
 This is readme file 
